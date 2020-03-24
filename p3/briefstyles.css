@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+background-color: #bbff00;
+footer {
+	background-color: #f86043;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	
+}
+
+h1 {
+	
+font-family: proxima-nova, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+
+background-color: #f4cd7b;
+		padding-left: 30px;
+
+}
+
+h2 {
+	
+
+font-family: proxima-nova, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+	
+style="color:f86043;"
+	
+
+}
+
+h3 { 
+
+font-family: proxima-nova, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+}
+
+h4 { 
+
+font-family: proxima-nova, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+style="color:f86043;"
+
+}
+
+h5 {
+	
+
+font-family: proxima-nova, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+	
+style="color:f86043;"
+
+
+}
+
+ul {
+	font-family: proxima-nova, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+	
+style="color:f86043;"
+	
+}
+
+p {
+	font-family: proxima-nova, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+	
+	padding-left: 30px;
+	padding-right: 275px;
+	
+}
