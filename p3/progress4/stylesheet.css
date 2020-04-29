@@ -1,0 +1,216 @@
+@charset "utf-8";
+/* CSS Document */
+.nav {
+	color: #f4cd7b;
+	list-style: none;
+	text-align: left;
+	padding: 50px 80px 10px 90px;
+}
+
+*{transition:all 0.3s ease-in-out;}
+
+.container{
+  clear:both;
+  overflow:auto;
+}
+
+.container>nav{
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+}
+nav{
+	float:right;
+}
+
+.row1:hover{
+	  color:#f4cd7b;
+
+}
+
+.logo img{
+	float:left;
+	padding-left: 90px;
+}
+
+ul li{
+	display: inline-block; 
+	padding:30px 60px 10px 10px;
+	font-size:20px; 
+	font-weight: 400;
+	font-family:proxima nova,sans-serif;
+}
+
+ul li:hover{
+  color:#f4cd7b;
+  
+}
+
+.button {
+  background-color: #f4cd7b; 
+  border: none;
+  color: white;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+	
+.button:hover {
+	background-color: #dda94e
+}
+
+
+.logo {
+	display: inline-block;
+	padding-right: 10px;
+	padding-top: 20px;
+}
+
+.nav > li {
+	display: inline-block;
+	padding-right: 20px;
+	font-family: proxima-nova, sans-serif;
+	font-weight: 900;
+	
+}
+
+.nav >li > a {
+	text-decoration: none;
+	color: #323333;
+}
+
+.nav > li > a:hover {
+	color: #f4cd7b
+}
+
+.eva {
+	padding-left: 30px;
+	padding-right: 20px;
+	padding top: 50px;
+	float: left;
+	background-color: white;
+}
+
+.bio {
+	float: right;
+	background-color: white;
+	padding: 50px 40px 20px 60px;
+}
+
+.bio > h2 {
+	font-family: proxima-nova, sans-serif;
+	font-weight: 500;
+	font-size: 30px;
+	color: #323333;
+	
+}
+.bio > p {
+	font-family: proxima-nova, sans-serif;
+	font-weight: 100;
+	color: #323333;
+	padding-right: 100px;
+}
+
+.button {
+  background-color: #f4cd7b; 
+  border: none;
+  color: white;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+	
+.button:hover {
+	background-color: #dda94e
+}
+
+.work {
+	display: inline-block;
+	padding-left: 90px;
+	padding-bottom: 100px;
+}
+.row1 {
+	display: inline-block;
+	padding-left: 90px;
+	padding-bottom: 6px;
+}
+
+.row2 {
+	display: inline-block;
+	padding-left: 90px;
+	padding-bottom: 6px;
+}
+
+.letswork {
+	padding-bottom: 100px;
+	padding-left: 490px;
+}
+
+h2 {
+	padding-left: 90px;
+	padding-top: 10px;
+	font-family: proxima-nova, sans-serif;
+	font-weight: 800;
+	font-size: 30px;
+	color: #323333;
+
+}
+
+
+
+footer {
+background-color: #f4cd7b;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+
+}
+
+footer > p {
+	font-family: proxima-nova, sans-serif;
+	font-weight: 100;
+	
+}
+
+.social-icons {
+  text-align:center;
+	padding: 0px;
+  }  
+
+.social-icons > li {
+	font-family: proxima-nova, sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	color: #323333;
+}
+
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+
+.social-icons li a {
+  border-bottom: none;
+  }
+
+.social-icons li img {
+  width:18px;
+  height:18px;
+  margin-right: 1px;
+}
